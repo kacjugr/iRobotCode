@@ -1,0 +1,2 @@
+Path results for file: set4.dat
+There is no navigable path from (153,476) to (1367,513)
